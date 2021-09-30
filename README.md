@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @battushig-namsraidorj
 - 👀 I’m interested in building software and people
 - 🌱 I’m currently learning English, playing Guitar and being Disciplined
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Java, React, MicroServices projects.
 - 📫 How to reach me ...
 
 <!---

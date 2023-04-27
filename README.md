@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @battushig-namsraidorj
 - 👀 I’m interested in building software and working with people
-- 🌱 I’m currently learning English, playing Guitar and being Disciplined
 - 💞️ I’m looking to collaborate on Java/Spring Boot, React, MicroServices projects.
 - 📫 How to reach me ... here!
 
